@@ -1,0 +1,1 @@
+LocateMe Africa is a mobile-based digital addressing application designed to generate reliable location identifiers in areas without formal street names or house numbers. Using GPS technology, the app creates unique, human-readable address codes that can be saved, shared, and used across different services.
